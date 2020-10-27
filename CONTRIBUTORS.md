@@ -270,3 +270,9 @@
  - Place: Kerala, India
  - Bio: Student, Programming enthusiast
  - Github: [SnappierSoap318](https://github.com/SnappierSoap318)
+ 
+ 
+ ### NAME:KRISH JAIN
+ PLACE:MUMBAI
+ BIO:PUPIL
+ GITHUB:https://github.com/Krishjain2004
